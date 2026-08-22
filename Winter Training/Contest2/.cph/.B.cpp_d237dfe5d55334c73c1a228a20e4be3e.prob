@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"d:\\ACM\\Winter Training\\Contest2\\B.cpp","tests":[{"id":1768961543418,"input":"3\nAAA\nBABA\nAABBBABBBB\n","output":"3\n2\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Winter Training\\Contest2\\B.cpp","group":"local","local":true}

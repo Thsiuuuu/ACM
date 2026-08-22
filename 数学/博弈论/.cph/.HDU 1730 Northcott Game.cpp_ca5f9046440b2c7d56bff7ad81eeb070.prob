@@ -1,0 +1,1 @@
+{"name":"Local: HDU 1730 Northcott Game","url":"d:\\ACM\\数学\\博弈论\\HDU 1730 Northcott Game.cpp","tests":[{"id":1784256986079,"input":"3 6\n4 5\n1 2\n1 2\n\n3 6\n4 5\n1 3\n1 2\n","output":"BAD LUCK!\nI WIN!\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\数学\\博弈论\\HDU 1730 Northcott Game.cpp","group":"local","local":true}

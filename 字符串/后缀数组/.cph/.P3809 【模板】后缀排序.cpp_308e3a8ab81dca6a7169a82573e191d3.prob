@@ -1,0 +1,1 @@
+{"name":"Local: P3809 【模板】后缀排序","url":"d:\\ACM\\字符串\\后缀数组\\P3809 【模板】后缀排序.cpp","tests":[{"id":1779288938918,"input":"ababa","output":"5 3 1 4 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\字符串\\后缀数组\\P3809 【模板】后缀排序.cpp","group":"local","local":true}

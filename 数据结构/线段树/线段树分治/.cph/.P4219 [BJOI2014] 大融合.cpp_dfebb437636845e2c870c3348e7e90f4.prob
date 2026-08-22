@@ -1,0 +1,1 @@
+{"name":"Local: P4219 [BJOI2014] 大融合","url":"d:\\ACM\\数据结构\\线段树\\线段树分治\\P4219 [BJOI2014] 大融合.cpp","tests":[{"id":1773200543642,"input":"8 6\nA 2 3\nA 3 4\nA 3 8\nA 8 7\nA 6 5\nQ 3 8","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\数据结构\\线段树\\线段树分治\\P4219 [BJOI2014] 大融合.cpp","group":"local","local":true}

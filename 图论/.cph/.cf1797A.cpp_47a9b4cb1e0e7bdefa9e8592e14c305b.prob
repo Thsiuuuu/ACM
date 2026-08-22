@@ -1,0 +1,1 @@
+{"name":"Local: cf1797A","url":"d:\\ACM\\图论\\cf1797A.cpp","tests":[{"id":1758818285463,"input":"3\n4 4\n2 2 3 3\n6 7\n1 1 2 3\n9 9\n5 1 3 6\n","output":"4\n2\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\图论\\cf1797A.cpp","group":"local","local":true}

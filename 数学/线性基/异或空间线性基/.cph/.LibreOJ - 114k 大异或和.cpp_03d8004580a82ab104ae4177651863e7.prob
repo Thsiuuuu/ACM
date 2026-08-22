@@ -1,0 +1,1 @@
+{"name":"Local: LibreOJ - 114k 大异或和","url":"d:\\ACM\\数学\\线性基\\异或空间线性基\\LibreOJ - 114k 大异或和.cpp","tests":[{"id":1773046666565,"input":"3\n1 2 3\n5\n1 2 3 4 5","output":"0\n1\n2\n3\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\数学\\线性基\\异或空间线性基\\LibreOJ - 114k 大异或和.cpp","group":"local","local":true}

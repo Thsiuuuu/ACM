@@ -1,0 +1,1 @@
+{"name":"Local: 1004","url":"d:\\ACM\\Summer Training\\HDU\\第五场\\1004.cpp","tests":[{"id":1785969268076,"input":"2\n2 3 0\n1 1 1\n2 6 1\n1 1 1 1 1 1","output":"444444450\n861111120"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Summer Training\\HDU\\第五场\\1004.cpp","group":"local","local":true}

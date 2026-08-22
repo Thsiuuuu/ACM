@@ -1,0 +1,1 @@
+{"name":"Local: P1648 看守","url":"d:\\ACM\\动态规划\\状压dp\\P1648 看守.cpp","tests":[{"id":1769846828275,"input":"4 2\n2 1\n1 4\n4 5\n5 3","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\动态规划\\状压dp\\P1648 看守.cpp","group":"local","local":true}

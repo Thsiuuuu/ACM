@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\ForVSCode\\搜索\\A.cpp","tests":[{"id":1755500684311,"input":"4 5 17\n@A.B.\na*.*.\n*..*^\nc..b*\n\n4 5 16\n@A.B.\na*.*.\n*..*^\nc..b*\n","output":"16\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\搜索\\A.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 区间修改，单点查询","url":"d:\\ACM\\数据结构\\树状数组\\二维树状数组\\区间修改，单点查询.cpp","tests":[{"id":1768306166383,"input":"2 2\n1 1 1 2 2 5\n1 1 2 2 2 -3\n2 1 1\n2 1 2\n2 2 1\n2 2 2","output":"5\n2\n5\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\数据结构\\树状数组\\二维树状数组\\区间修改，单点查询.cpp","group":"local","local":true}

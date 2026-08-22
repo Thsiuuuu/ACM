@@ -1,0 +1,1 @@
+{"name":"Local: P2120 [ZJOI2007] 仓库建设","url":"d:\\ACM\\动态规划\\动态规划优化\\斜率优化\\P2120 [ZJOI2007] 仓库建设.cpp","tests":[{"id":1772187726784,"input":"3\n0 5 10\n5 3 100\n9 6 10","output":"32"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\动态规划\\动态规划优化\\斜率优化\\P2120 [ZJOI2007] 仓库建设.cpp","group":"local","local":true}

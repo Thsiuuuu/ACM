@@ -1,0 +1,1 @@
+{"name":"Local: Give Away","url":"d:\\ACM\\数据结构\\分块\\Give Away.cpp","tests":[{"id":1779500042640,"input":"5\n1 2 3 4 5\n3\n0 1 5 10\n1 2 20\n0 1 3 10","output":"0\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\数据结构\\分块\\Give Away.cpp","group":"local","local":true}

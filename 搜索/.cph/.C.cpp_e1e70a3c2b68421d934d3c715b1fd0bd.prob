@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"d:\\ForVSCode\\搜索\\C.cpp","tests":[{"id":1755567456935,"input":"100\n2","output":"68"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\搜索\\C.cpp","group":"local","local":true}

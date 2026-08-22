@@ -1,0 +1,1 @@
+{"name":"Local: tri","url":"d:\\ACM\\tri.cpp","tests":[{"id":1766763336540,"input":"5\n2 3 1 5 2","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\tri.cpp","group":"local","local":true}

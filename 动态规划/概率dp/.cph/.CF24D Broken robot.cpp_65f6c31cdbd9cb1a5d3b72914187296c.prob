@@ -1,0 +1,1 @@
+{"name":"Local: CF24D Broken robot","url":"d:\\ACM\\动态规划\\概率dp\\CF24D Broken robot.cpp","tests":[{"id":1780374660836,"input":"10 10\n10 4\n","output":"0.0000000000\n"},{"id":1780374677064,"input":"10 14\n5 14\n","output":"18.0038068653\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\动态规划\\概率dp\\CF24D Broken robot.cpp","group":"local","local":true}

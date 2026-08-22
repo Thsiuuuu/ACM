@@ -1,0 +1,51 @@
+#include <bits/stdc++.h>
+using namespace std;
+/*
+      /\_/\
+     ( =o.o= ) *
+      / >  \>
+*/
+#define ll long long 
+#define i128 __int128_t
+#define ld long double
+#define pii pair<int,int>
+#define pll pair<ll,ll>
+#define pil pair<int,ll>
+#define pli pair<ll,int>
+#define ull unsigned long long
+void sol() {
+    int n,k;
+    cin>>n>>k;
+    vector<ll> a(n);
+    for(int i=0;i<n;i++){
+        cin>>a[i];
+    }
+    sort(a.begin(),a.end());
+    // for(int i=0;i<n;i++) cout<<a[i]<<" ";
+    // cout<<'\n';
+    for(int i=k-1;i<n;i++){
+        // cout<<i<<'\n';
+        ll sum=0;
+        for(int cnt=0;cnt<k-1;cnt++){
+            sum+=a[i-1-cnt];
+        }
+        if(a[i]<sum){
+            // cout<<a[i]<<" "<<sum<<'\n';
+            cout<<"Yes\n";
+            return ;
+        }
+    }
+    cout<<"No\n";
+}
+
+signed main() {
+    ios::sync_with_stdio(0);
+    cin.tie(0), cout.tie(0);
+
+    int t = 1;
+    // cin >> t;
+    while (t--) {
+        sol();
+    }
+    return 0;
+}

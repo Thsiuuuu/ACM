@@ -1,0 +1,1 @@
+{"name":"Local: 琪露诺","url":"d:\\ACM\\动态规划\\动态规划优化\\单调队列、单调栈优化\\琪露诺.cpp","tests":[{"id":1765382284293,"input":"5 2 3\n0 12 3 11 7 -2\n","output":"11\n\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\动态规划\\动态规划优化\\单调队列、单调栈优化\\琪露诺.cpp","group":"local","local":true}

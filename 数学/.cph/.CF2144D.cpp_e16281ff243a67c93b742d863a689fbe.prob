@@ -1,0 +1,1 @@
+{"name":"Local: CF2144D","url":"d:\\ACM\\数学\\CF2144D.cpp","tests":[{"id":1759807837696,"input":"4\n5 51\n50 150 50 148 150\n3 1000000000\n42 42 42\n10 54321\n1 8088 45 1 73 1 9198 4991 1 83\n3 100\n1 1 1\n","output":"31\n-2999999937\n-162755\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\数学\\CF2144D.cpp","group":"local","local":true}

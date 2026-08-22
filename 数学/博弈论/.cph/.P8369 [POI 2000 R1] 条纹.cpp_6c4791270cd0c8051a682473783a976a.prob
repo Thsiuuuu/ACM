@@ -1,0 +1,1 @@
+{"name":"Local: P8369 [POI 2000 R1] 条纹","url":"d:\\ACM\\数学\\博弈论\\P8369 [POI 2000 R1] 条纹.cpp","tests":[{"id":1784232029154,"input":"1 5 1\n3\n1\n5\n6","output":"1\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\数学\\博弈论\\P8369 [POI 2000 R1] 条纹.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: I","url":"d:\\ForVSCode\\动态规划\\I.cpp","tests":[{"id":1753408381536,"input":"4 10 \n5 \n6 \n3 \n7 \n","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\动态规划\\I.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 上帝造题的七分钟","url":"d:\\ACM\\数据结构\\树状数组\\二维树状数组\\上帝造题的七分钟.cpp","tests":[{"id":1768307495269,"input":"X 4 4\nL 1 1 3 3 2\nL 2 2 4 4 1\nk 2 2 3 3","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\数据结构\\树状数组\\二维树状数组\\上帝造题的七分钟.cpp","group":"local","local":true}

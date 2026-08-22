@@ -1,0 +1,1 @@
+{"name":"Local: J","url":"d:\\ACM\\Individual\\2025ChengDuRegional\\J.cpp","tests":[{"id":1780928245839,"input":"2\n5 3 2 1\n-3 0 3\n2 -2 -1\n1 1 1\n0 0 0\n-1 -1 -1\n3 2 -1 1\n-1 -2\n-3 -3\n1 -3\n","output":"2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Individual\\2025ChengDuRegional\\J.cpp","group":"local","local":true}

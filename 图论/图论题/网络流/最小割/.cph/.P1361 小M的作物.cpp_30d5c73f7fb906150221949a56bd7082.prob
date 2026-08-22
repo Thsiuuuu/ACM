@@ -1,0 +1,1 @@
+{"name":"Local: P1361 小M的作物","url":"d:\\ACM\\图论\\图论题\\网络流\\最小割\\P1361 小M的作物.cpp","tests":[{"id":1772441789885,"input":"3\n4 2 1\n2 3 2\n1\n2 3 2 1 2","output":"11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\图论\\图论题\\网络流\\最小割\\P1361 小M的作物.cpp","group":"local","local":true}

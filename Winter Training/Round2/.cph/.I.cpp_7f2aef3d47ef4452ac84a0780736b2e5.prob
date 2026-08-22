@@ -1,0 +1,1 @@
+{"name":"Local: I","url":"d:\\ACM\\Winter Training\\Round2\\I.cpp","tests":[{"id":1768832936133,"input":"2\nforces\nabba\n","output":"Alice\nDraw\n"},{"id":1768833194957,"input":"1\nbaaa","output":"Alice"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Winter Training\\Round2\\I.cpp","group":"local","local":true}

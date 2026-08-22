@@ -1,0 +1,1 @@
+{"name":"Local: CF1842C","url":"d:\\ForVSCode\\动态规划\\CF1842C.cpp","tests":[{"id":1756871638435,"input":"2\n5\n1 2 2 3 3\n4\n1 2 1 2\n","output":"4\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\动态规划\\CF1842C.cpp","group":"local","local":true}

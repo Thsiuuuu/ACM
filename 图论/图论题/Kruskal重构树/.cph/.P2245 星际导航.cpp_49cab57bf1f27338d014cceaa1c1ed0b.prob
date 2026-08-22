@@ -1,0 +1,1 @@
+{"name":"Local: P2245 星际导航","url":"d:\\ACM\\图论\\图论题\\Kruskal重构树\\P2245 星际导航.cpp","tests":[{"id":1784657501578,"input":"4 5\n1 2 5\n1 3 2\n2 3 11\n2 4 6\n3 4 4\n3\n2 3\n1 4\n1 2\n","output":"5\n4\n5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\图论\\图论题\\Kruskal重构树\\P2245 星际导航.cpp","group":"local","local":true}

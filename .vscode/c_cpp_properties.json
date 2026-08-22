@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            // "includePath": [
+            //     "D:\\llvm-mingw-20240917-msvcrt-x86_64\\MinGW\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include\\c++"
+            // ],
+            
+            // "defines": [
+            //     "_DEBUG",
+            //     "UNICODE",
+            //     "_UNICODE"
+            // ],
+            "compilerPath": "D:\\mingw\\MinGW\\bin\\g++.exe",
+            "cStandard": "c23",
+            "cppStandard": "c++23",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}

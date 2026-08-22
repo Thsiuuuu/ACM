@@ -1,0 +1,1 @@
+{"name":"Local: 1011","url":"d:\\ACM\\Summer Training\\HDU\\第七场\\1011.cpp","tests":[{"id":1786485409831,"input":"1\n3 5\n1 2 2\n1 2 3\n2 1 999999999\n1 1 999999997\n1 3 999999998","output":"Yes\nYes\nYes\nNo\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Summer Training\\HDU\\第七场\\1011.cpp","group":"local","local":true}

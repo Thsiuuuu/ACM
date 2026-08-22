@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"d:\\ForVSCode\\ABC416\\E.cpp","tests":[{"id":1753672168134,"input":"14 5\nkittyonyourlap\n","output":"inlap\n"},{"id":1753672346716,"input":"7 3\natcoder\n","output":"acd"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\ABC416\\E.cpp","group":"local","local":true}

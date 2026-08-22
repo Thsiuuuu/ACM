@@ -1,0 +1,1 @@
+{"name":"Local: 筛法求约数个数","url":"d:\\ACM\\数学\\质数筛\\筛法应用\\筛法求约数个数.cpp","tests":[{"id":1766070630537,"input":"8","output":"1 1\n2 2\n3 2\n4 3\n5 2\n6 4\n7 2\n8 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\数学\\质数筛\\筛法应用\\筛法求约数个数.cpp","group":"local","local":true}

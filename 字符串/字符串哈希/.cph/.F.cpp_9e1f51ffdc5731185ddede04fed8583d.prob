@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"d:\\ForVSCode\\字符串\\字符串哈希\\F.cpp","tests":[{"id":1754960317430,"input":"abcd\naaaa\nababab\n.","output":"1\n4\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\字符串\\字符串哈希\\F.cpp","group":"local","local":true}

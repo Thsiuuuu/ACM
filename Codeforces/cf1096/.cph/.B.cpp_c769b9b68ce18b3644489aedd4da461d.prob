@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"d:\\ACM\\Codeforces\\cf1096\\B.cpp","tests":[{"id":1777560022471,"input":"6\n2\n()\n2\n)(\n3\n(((\n6\n())(()\n4\n(()(\n5\n)()()\n","output":"YES\nYES\nNO\nYES\nNO\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Codeforces\\cf1096\\B.cpp","group":"local","local":true}

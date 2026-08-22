@@ -1,0 +1,1 @@
+{"name":"Local: P","url":"d:\\ForVSCode\\树论\\DFS\\P.cpp","tests":[{"id":1754639097212,"input":"5\n4 5\n3 2\n5 2\n3 1","output":"1 1\n1 1\n1 1\n1 1\n1 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\树论\\DFS\\P.cpp","group":"local","local":true}

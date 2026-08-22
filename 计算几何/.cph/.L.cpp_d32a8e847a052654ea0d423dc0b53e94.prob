@@ -1,0 +1,1 @@
+{"name":"Local: L","url":"d:\\ForVSCode\\计算几何\\L.cpp","tests":[{"id":1755589318996,"input":"4\n4 8\n4 12\n5 9.3\n7 8","output":"12.00"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\计算几何\\L.cpp","group":"local","local":true}

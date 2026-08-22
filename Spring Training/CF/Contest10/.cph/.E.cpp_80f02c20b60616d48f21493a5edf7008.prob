@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"d:\\ACM\\Spring Training\\CF\\Contest10\\E.cpp","tests":[{"id":1779776228001,"input":"1\nennaimez\nennus","output":"3"},{"id":1779776235803,"input":"3\nwhy\nsoul\nspell\nwell\nweels\nwhom","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Spring Training\\CF\\Contest10\\E.cpp","group":"local","local":true}

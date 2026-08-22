@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"d:\\ACM\\Codeforces\\EduRound189\\B.cpp","tests":[{"id":1782396328414,"input":"8\nabbaba\naaaaa\nbababba\nab\nabbaabba\nbbb\nababa\naabb\n","output":"YES\nNO\nYES\nYES\nNO\nYES\nYES\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Codeforces\\EduRound189\\B.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 空间跳跃（bfs)","url":"d:\\ForVSCode\\图论\\东北大学图论\\空间跳跃（bfs).cpp","tests":[{"id":1750501525648,"input":"3\n3 2\n3 2\n2 1\n3\n1\n2\n3 \n3 1\n2 1\n1\n3\n2 1\n2 2\n1\n2","output":"0\n1\n2\nGG\nGG"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\图论\\东北大学图论\\空间跳跃（bfs).cpp","group":"local","local":true}

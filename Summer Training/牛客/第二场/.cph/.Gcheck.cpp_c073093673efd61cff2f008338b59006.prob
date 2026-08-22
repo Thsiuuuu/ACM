@@ -1,0 +1,1 @@
+{"name":"Local: Gcheck","url":"d:\\ACM\\Summer Training\\牛客\\第二场\\Gcheck.cpp","tests":[{"id":1784699332955,"input":"3\n1 5 6\n2 33 36\n1 99 100\n","output":"8\n54\n158"},{"id":1784705387525,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Summer Training\\牛客\\第二场\\Gcheck.cpp","group":"local","local":true}

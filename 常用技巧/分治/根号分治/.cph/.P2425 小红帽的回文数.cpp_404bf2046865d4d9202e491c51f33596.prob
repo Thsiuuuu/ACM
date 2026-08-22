@@ -1,0 +1,1 @@
+{"name":"Local: P2425 小红帽的回文数","url":"d:\\ACM\\常用技巧\\分治\\根号分治\\P2425 小红帽的回文数.cpp","tests":[{"id":1778563900099,"input":"4\n1\n4\n21\n345332","output":"2\n3\n2\n114"},{"id":1778564186754,"input":"1\n4","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\常用技巧\\分治\\根号分治\\P2425 小红帽的回文数.cpp","group":"local","local":true}

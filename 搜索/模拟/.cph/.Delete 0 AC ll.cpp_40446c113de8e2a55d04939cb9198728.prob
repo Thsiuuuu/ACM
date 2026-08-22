@@ -1,0 +1,1 @@
+{"name":"Local: Delete 0 AC ll","url":"d:\\ACM\\搜索\\模拟\\Delete 0 AC ll.cpp","tests":[{"id":1766762712141,"input":"123456789 + 8 - 765\n5 - 987456 + 2","output":"123456032\n-987449"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\搜索\\模拟\\Delete 0 AC ll.cpp","group":"local","local":true}

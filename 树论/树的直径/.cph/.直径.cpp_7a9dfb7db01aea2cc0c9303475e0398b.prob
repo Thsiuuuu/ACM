@@ -1,0 +1,1 @@
+{"name":"Local: 直径","url":"d:\\ForVSCode\\树论\\树的直径\\直径.cpp","tests":[{"id":1756176178003,"input":"6\n3 1 1000\n1 4 10\n4 2 100\n4 5 50\n4 6 100","output":"1110 \n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\树论\\树的直径\\直径.cpp","group":"local","local":true}

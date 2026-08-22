@@ -1,0 +1,1 @@
+{"name":"Local: I","url":"d:\\ForVSCode\\Autumn traing\\Training 2\\I.cpp","tests":[{"id":1758696687463,"input":"6\n50 100 0\n40 10 50\n10 40 50\n1 1 1000000\n60 200 960\n60 185 905\n","output":"320\n1120\n1280\n320000320\n3520\n3360"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\Autumn traing\\Training 2\\I.cpp","group":"local","local":true}

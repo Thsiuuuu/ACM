@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"d:\\ACM\\Codeforces\\Good Bye 2025\\B.cpp","tests":[{"id":1766846611195,"input":"9\nsus\nuuuu\nsssss\nuusuuu\nsuuuuuu\nusssssss\nsssuuusss\nsusuusuuus\nuuuuuuuuuuu\n","output":"0\n3\n0\n3\n3\n1\n1\n2\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Codeforces\\Good Bye 2025\\B.cpp","group":"local","local":true}

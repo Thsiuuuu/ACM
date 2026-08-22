@@ -1,0 +1,1 @@
+{"name":"Local: P5631 最小mex生成树","url":"d:\\ACM\\数据结构\\线段树\\线段树分治\\P5631 最小mex生成树.cpp","tests":[{"id":1772847016001,"input":"3 3\n1 2 0\n2 3 1\n3 2 2\n","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\数据结构\\线段树\\线段树分治\\P5631 最小mex生成树.cpp","group":"local","local":true}

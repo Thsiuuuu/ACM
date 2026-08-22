@@ -1,0 +1,1 @@
+{"name":"Local: P3181 [HAOI2016] 找相同字符","url":"d:\\ACM\\字符串\\后缀数组\\P3181 [HAOI2016] 找相同字符.cpp","tests":[{"id":1779950568396,"input":"aabb\nbbaa","output":"10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\字符串\\后缀数组\\P3181 [HAOI2016] 找相同字符.cpp","group":"local","local":true}

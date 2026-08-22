@@ -1,0 +1,1 @@
+{"name":"Local: AT_tdpc_dice","url":"d:\\ACM\\动态规划\\概率dp\\AT_tdpc_dice.cpp","tests":[{"id":1786987237633,"input":"2 6\n","output":"0.416666667\n"},{"id":1786988375859,"input":"3 2\n","output":"0.875000000\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\动态规划\\概率dp\\AT_tdpc_dice.cpp","group":"local","local":true}

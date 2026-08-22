@@ -1,0 +1,1 @@
+{"name":"Local: D","url":"d:\\ACM\\Codeforces\\EduRound187\\D.cpp","tests":[{"id":1772034836720,"input":"3\n9 3\n3 2 4 2 2 4 4 2 4\n6 7 12\n10 3\n3 2 5 4 2 5 3 4 4 4\n10 7 13\n1 5\n1\n1 2 3 4 5\n","output":"Alice\nBob\nAlice"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Codeforces\\EduRound187\\D.cpp","group":"local","local":true}

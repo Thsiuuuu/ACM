@@ -1,0 +1,1 @@
+{"name":"Local: 美味","url":"d:\\ForVSCode\\数据结构\\线段树\\主席树\\美味.cpp","tests":[{"id":1755878960110,"input":"4 4\n1 2 3 4\n1 4 1 4\n2 3 2 3\n3 2 3 3\n4 1 2 4","output":"9 \n7 \n6 \n7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\数据结构\\线段树\\主席树\\美味.cpp","group":"local","local":true}

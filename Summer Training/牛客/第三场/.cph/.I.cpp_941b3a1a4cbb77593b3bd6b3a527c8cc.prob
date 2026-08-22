@@ -1,0 +1,1 @@
+{"name":"Local: I","url":"d:\\ACM\\Summer Training\\牛客\\第三场\\I.cpp","tests":[{"id":1785649543861,"input":"3\n5\n1 3 2 7 4\n4\n5 5 5 5\n6\n10 1 10 1 10 1","output":"14\n0\n45"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Summer Training\\牛客\\第三场\\I.cpp","group":"local","local":true}

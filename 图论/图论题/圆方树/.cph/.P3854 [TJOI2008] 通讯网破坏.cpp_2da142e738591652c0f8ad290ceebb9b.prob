@@ -1,0 +1,1 @@
+{"name":"Local: P3854 [TJOI2008] 通讯网破坏","url":"d:\\ACM\\图论\\图论题\\圆方树\\P3854 [TJOI2008] 通讯网破坏.cpp","tests":[{"id":1775807831671,"input":"5 6\n1 2\n1 3\n2 3\n3 4\n3 5\n4 5\n3\n1 5 3\n1 5 4\n4 5 3\n","output":"yes\nno\nno\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\图论\\图论题\\圆方树\\P3854 [TJOI2008] 通讯网破坏.cpp","group":"local","local":true}

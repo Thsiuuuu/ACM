@@ -1,0 +1,1 @@
+{"name":"Local: P3857 [TJOI2008] 彩灯","url":"d:\\ACM\\数学\\线性基\\异或空间线性基\\P3857 [TJOI2008] 彩灯.cpp","tests":[{"id":1773057160437,"input":"2 3\nOO\nXO\nOX\n","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\数学\\线性基\\异或空间线性基\\P3857 [TJOI2008] 彩灯.cpp","group":"local","local":true}

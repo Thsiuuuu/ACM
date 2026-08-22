@@ -1,0 +1,1 @@
+{"name":"Local: P5782 [POI 2001 R2] 和平委员会","url":"d:\\ACM\\图论\\图论题\\2-SAT\\P5782 [POI 2001 R2] 和平委员会.cpp","tests":[{"id":1784942934696,"input":"3 2\n1 3\n2 4\n","output":"1\n4\n5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\图论\\图论题\\2-SAT\\P5782 [POI 2001 R2] 和平委员会.cpp","group":"local","local":true}

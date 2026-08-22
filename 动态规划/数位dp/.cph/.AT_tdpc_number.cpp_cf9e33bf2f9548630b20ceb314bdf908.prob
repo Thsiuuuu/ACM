@@ -1,0 +1,1 @@
+{"name":"Local: AT_tdpc_number","url":"d:\\ACM\\动态规划\\数位dp\\AT_tdpc_number.cpp","tests":[{"id":1786985616738,"input":"3\n100","output":"33"},{"id":1786986177372,"input":"7\n123456789012345678901234567890","output":"468357804"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\动态规划\\数位dp\\AT_tdpc_number.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Cutting Game","url":"d:\\ForVSCode\\数学\\构造及博弈论练习\\SG函数\\Cutting Game.cpp","tests":[{"id":1757208761408,"input":"2 2\n3 2\n4 2\n","output":"LOSE\nLOSE\nWIN\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\数学\\构造及博弈论练习\\SG函数\\Cutting Game.cpp","group":"local","local":true}

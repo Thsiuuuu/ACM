@@ -1,0 +1,1 @@
+{"name":"Local: 播放列表","url":"d:\\ForVSCode\\东北大学搜索专项\\播放列表.cpp","tests":[{"id":1749781127095,"input":"8\n1 2 1 3 2 7 4 2","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\东北大学搜索专项\\播放列表.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: P5911 [POI 2004] PRZ","url":"d:\\ACM\\动态规划\\状压dp\\P5911 [POI 2004] PRZ.cpp","tests":[{"id":1780298035794,"input":"100 3\n24 60\n10 40\n18 50 ","output":"42"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\动态规划\\状压dp\\P5911 [POI 2004] PRZ.cpp","group":"local","local":true}

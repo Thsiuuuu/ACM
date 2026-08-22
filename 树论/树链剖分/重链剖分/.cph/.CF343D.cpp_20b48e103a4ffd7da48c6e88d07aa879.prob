@@ -1,0 +1,1 @@
+{"name":"Local: CF343D","url":"d:\\ForVSCode\\树论\\树链剖分\\重链剖分\\CF343D.cpp","tests":[{"id":1754724292222,"input":"5\n1 2\n5 1\n2 3\n4 2\n12\n1 1\n2 3\n3 1\n3 2\n3 3\n3 4\n1 2\n2 4\n3 1\n3 3\n3 4\n3 5\n","output":"0\n0\n0\n1\n0\n1\n0\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\树论\\树链剖分\\重链剖分\\CF343D.cpp","group":"local","local":true}

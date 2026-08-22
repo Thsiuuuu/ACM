@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"d:\\ACM\\Spring Training\\PTA\\3\\C.cpp","tests":[{"id":1774670345759,"input":"10 2 90\n203 0\n169 91\n175 88\n175 0\n175 90\n189 0\n189 0\n189 95\n189 89\n256 100","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Spring Training\\PTA\\3\\C.cpp","group":"local","local":true}

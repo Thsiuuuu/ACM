@@ -1,0 +1,1 @@
+{"name":"Local: P1144最短路计数","url":"d:\\ACM\\图论\\图论题\\最短路\\P1144最短路计数.cpp","tests":[{"id":1770356815560,"input":"5 7\n1 2\n1 3\n2 4\n3 4\n2 3\n4 5\n4 5\n","output":"1\n1\n1\n2\n4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\图论\\图论题\\最短路\\P1144最短路计数.cpp","group":"local","local":true}

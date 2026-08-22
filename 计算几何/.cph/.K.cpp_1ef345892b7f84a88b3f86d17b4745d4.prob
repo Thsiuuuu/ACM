@@ -1,0 +1,1 @@
+{"name":"Local: K","url":"d:\\ForVSCode\\计算几何\\K.cpp","tests":[{"id":1755586623920,"input":"10\n0 0\n4 0\n4 1\n3 1\n3 3\n2 3\n2 2\n1 2\n1 3\n0 3","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\计算几何\\K.cpp","group":"local","local":true}

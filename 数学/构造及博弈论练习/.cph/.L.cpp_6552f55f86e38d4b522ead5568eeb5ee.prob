@@ -1,0 +1,1 @@
+{"name":"Local: L","url":"d:\\ForVSCode\\数学\\构造及博弈论练习\\L.cpp","tests":[{"id":1754020166871,"input":"2\n1 2 2\n","output":"ambiguous\n0 1 1 3 3\n0 1 1 3 2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\数学\\构造及博弈论练习\\L.cpp","group":"local","local":true}

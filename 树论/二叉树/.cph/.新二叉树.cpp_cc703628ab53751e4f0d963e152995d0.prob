@@ -1,0 +1,1 @@
+{"name":"Local: 新二叉树","url":"d:\\ACM\\树论\\二叉树\\新二叉树.cpp","tests":[{"id":1765688227074,"input":"6\nabc\nbdi\ncj*\nd**\ni**\nj**","output":"abdicj"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\树论\\二叉树\\新二叉树.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"d:\\ACM\\Individual\\2024NanJingRegional\\B.cpp","tests":[{"id":1781898152771,"input":"5\n0110101\n01020102\n0000021111\n1012121010\n0100202010\n","output":"3\n4\n0\n6\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Individual\\2024NanJingRegional\\B.cpp","group":"local","local":true}

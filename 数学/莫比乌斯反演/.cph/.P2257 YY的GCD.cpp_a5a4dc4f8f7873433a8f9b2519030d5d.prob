@@ -1,0 +1,1 @@
+{"name":"Local: P2257 YY的GCD","url":"d:\\ACM\\数学\\莫比乌斯反演\\P2257 YY的GCD.cpp","tests":[{"id":1784570207413,"input":"2\n10 10\n100 100","output":"30\n2791"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\数学\\莫比乌斯反演\\P2257 YY的GCD.cpp","group":"local","local":true}

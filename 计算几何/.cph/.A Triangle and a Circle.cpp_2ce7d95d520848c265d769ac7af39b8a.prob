@@ -1,0 +1,1 @@
+{"name":"Local: A Triangle and a Circle","url":"d:\\ForVSCode\\计算几何\\A Triangle and a Circle.cpp","tests":[{"id":1755427500953,"input":"0 20 10 0 -10 0 0 0 10","output":"144.35"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\计算几何\\A Triangle and a Circle.cpp","group":"local","local":true}

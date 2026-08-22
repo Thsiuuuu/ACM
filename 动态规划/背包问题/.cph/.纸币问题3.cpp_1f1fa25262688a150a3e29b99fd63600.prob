@@ -1,0 +1,1 @@
+{"name":"Local: 纸币问题3","url":"d:\\ACM\\动态规划\\背包问题\\纸币问题3.cpp","tests":[{"id":1765657962609,"input":"6 15\n1 5 10 20 50 100","output":"6"},{"id":1765657965583,"input":"3 15\n1 5 11","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\动态规划\\背包问题\\纸币问题3.cpp","group":"local","local":true}

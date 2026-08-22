@@ -1,0 +1,1 @@
+{"name":"Local: P16231","url":"d:\\ACM\\字符串\\KMP\\P16231.cpp","tests":[{"id":1779239454194,"input":"3 2\nAA\n499122177 499122177 0 0\n499122177 0 499122177 0\n499122177 0 0 499122177","output":"623902721"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\字符串\\KMP\\P16231.cpp","group":"local","local":true}

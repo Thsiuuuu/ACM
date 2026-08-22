@@ -1,0 +1,1 @@
+{"name":"Local: 穷举搜索","url":"d:\\ForVSCode\\东北大学数据结构\\穷举搜索.cpp","tests":[{"id":1749288411083,"input":"5\n1 5 7 10 21\n8\n2 4 17 8 22 21 100 35","output":"no\nno\nyes\nyes\nyes\nyes\nno\nno"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\东北大学数据结构\\穷举搜索.cpp","group":"local","local":true}

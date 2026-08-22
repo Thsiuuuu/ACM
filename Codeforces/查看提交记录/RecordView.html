@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Codeforces 刷题记录分类查看器</title>
+    <!-- 引入 Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f6f8; padding: 20px; color: #333; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        .header { text-align: center; margin-bottom: 30px; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        input { padding: 10px; border: 1px solid #ccc; border-radius: 4px; width: 200px; }
+        button { padding: 10px 20px; background-color: #3182ce; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: bold; }
+        button:hover { background-color: #2b6cb0; }
+        button:disabled { background-color: #ccc; cursor: not-allowed; }
+        
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(500px, 1fr)); gap: 20px; margin-bottom: 20px; }
+        
+        .card { background: white; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); overflow: hidden; display: flex; flex-direction: column; max-height: 800px; }
+        .card-header { padding: 15px; font-size: 1.2em; font-weight: bold; color: white; display: flex; justify-content: space-between; align-items: center; }
+        
+        /* 颜色区分 */
+        .bg-gray { background-color: #718096; }   /* 800-1100 */
+        .bg-cyan { background-color: #0bc5ea; }   /* 1200-1600 */
+        .bg-blue { background-color: #4299e1; }   /* 1700-2100 */
+        .bg-orange { background-color: #ed8936; } /* 2200+ */
+
+        .count-badge { background: rgba(0,0,0,0.2); padding: 2px 8px; border-radius: 12px; font-size: 0.8em; }
+
+        .card-body { padding: 0; overflow-y: auto; flex-grow: 1; }
+        
+        table { width: 100%; border-collapse: collapse; font-size: 0.9em; }
+        th, td { padding: 10px 15px; text-align: left; border-bottom: 1px solid #eee; }
+        th { background-color: #f7fafc; position: sticky; top: 0; }
+        tr:hover { background-color: #f1f5f9; }
+        
+        a { text-decoration: none; color: #3182ce; }
+        a:hover { text-decoration: underline; }
+        
+        .loading { text-align: center; margin: 20px; font-size: 1.2em; color: #666; display: none; }
+        .error { color: #e53e3e; margin-top: 10px; display: none; }
+        
+        .rating-val { font-weight: bold; color: #555; }
+
+        /* 图表卡片样式 */
+        .chart-container {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+            margin-top: 20px;
+            height: 400px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <h2>Codeforces 刷题记录分类器</h2>
+        <div>
+            <input type="text" id="handleInput" placeholder="请输入 CF 用户名 (Handle)">
+            <button onclick="fetchData()" id="searchBtn">查询</button>
+        </div>
+        <div id="loading" class="loading">正在加载数据，请稍候...</div>
+        <div id="errorMsg" class="error"></div>
+    </div>
+
+    <div class="grid">
+        <!-- [800, 1100] -->
+        <div class="card">
+            <div class="card-header bg-gray">
+                <span>区间 [800, 1100] (Newbie)</span>
+                <span class="count-badge" id="count-1">0</span>
+            </div>
+            <div class="card-body">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>题目</th>
+                            <th width="60">分值</th>
+                            <th width="150">提交时间</th>
+                            <th width="80">代码</th>
+                        </tr>
+                    </thead>
+                    <tbody id="list-1"></tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- [1200, 1600] -->
+        <div class="card">
+            <div class="card-header bg-cyan">
+                <span>区间 [1200, 1600] (Pupil - Expert)</span>
+                <span class="count-badge" id="count-2">0</span>
+            </div>
+            <div class="card-body">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>题目</th>
+                            <th width="60">分值</th>
+                            <th width="150">提交时间</th>
+                            <th width="80">代码</th>
+                        </tr>
+                    </thead>
+                    <tbody id="list-2"></tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- [1700, 2100] -->
+        <div class="card">
+            <div class="card-header bg-blue">
+                <span>区间 [1700, 2100] (Candidate Master)</span>
+                <span class="count-badge" id="count-3">0</span>
+            </div>
+            <div class="card-body">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>题目</th>
+                            <th width="60">分值</th>
+                            <th width="150">提交时间</th>
+                            <th width="80">代码</th>
+                        </tr>
+                    </thead>
+                    <tbody id="list-3"></tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- [2200, +∞) -->
+        <div class="card">
+            <div class="card-header bg-orange">
+                <span>区间 [2200, +∞) (Master+)</span>
+                <span class="count-badge" id="count-4">0</span>
+            </div>
+            <div class="card-body">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>题目</th>
+                            <th width="60">分值</th>
+                            <th width="150">提交时间</th>
+                            <th width="80">代码</th>
+                        </tr>
+                    </thead>
+                    <tbody id="list-4"></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <!-- 图表展示区域 -->
+    <div class="chart-container">
+        <canvas id="ratingChart"></canvas>
+    </div>
+</div>
+
+<script>
+    let myChart = null; // 全局变量，用于存储图表实例以便销毁和重绘
+
+    async function fetchData() {
+        const handle = document.getElementById('handleInput').value.trim();
+        const loadingDiv = document.getElementById('loading');
+        const errorDiv = document.getElementById('errorMsg');
+        const btn = document.getElementById('searchBtn');
+
+        if (!handle) {
+            alert("请输入用户名");
+            return;
+        }
+
+        loadingDiv.style.display = 'block';
+        errorDiv.style.display = 'none';
+        btn.disabled = true;
+        
+        for(let i=1; i<=4; i++) {
+            document.getElementById(`list-${i}`).innerHTML = '';
+            document.getElementById(`count-${i}`).innerText = '0';
+        }
+
+        try {
+            const response = await fetch(`https://codeforces.com/api/user.status?handle=${handle}&from=1&count=10000`);
+            const data = await response.json();
+
+            if (data.status !== "OK") {
+                throw new Error(data.comment || "获取数据失败");
+            }
+
+            const submissions = data.result;
+            const solvedMap = new Map();
+
+            submissions.forEach(sub => {
+                if (sub.verdict === 'OK' && sub.problem.rating !== undefined) {
+                    const problemId = sub.problem.contestId + sub.problem.index;
+                    if (!solvedMap.has(problemId)) {
+                        solvedMap.set(problemId, sub);
+                    }
+                }
+            });
+
+            const solvedList = Array.from(solvedMap.values());
+            const groups = [[], [], [], []];
+
+            solvedList.forEach(sub => {
+                const r = sub.problem.rating;
+                if (r >= 800 && r <= 1100) {
+                    groups[0].push(sub);
+                } else if (r >= 1200 && r <= 1600) {
+                    groups[1].push(sub);
+                } else if (r >= 1700 && r <= 2100) {
+                    groups[2].push(sub);
+                } else if (r >= 2200) {
+                    groups[3].push(sub);
+                }
+            });
+
+            // 渲染数据列表
+            groups.forEach((group, index) => {
+                group.sort((a, b) => b.creationTimeSeconds - a.creationTimeSeconds);
+                const tbody = document.getElementById(`list-${index + 1}`);
+                document.getElementById(`count-${index + 1}`).innerText = group.length;
+
+                group.forEach(sub => {
+                    const row = document.createElement('tr');
+                    const date = new Date(sub.creationTimeSeconds * 1000);
+                    const timeStr = date.toISOString().slice(0, 10) + ' ' + date.toLocaleTimeString();
+                    const probUrl = `https://codeforces.com/contest/${sub.contestId}/problem/${sub.problem.index}`;
+                    const subUrl = `https://codeforces.com/contest/${sub.contestId}/submission/${sub.id}`;
+
+                    row.innerHTML = `
+                        <td><a href="${probUrl}" target="_blank">${sub.problem.contestId}${sub.problem.index} - ${sub.problem.name}</a></td>
+                        <td><span class="rating-val">${sub.problem.rating}</span></td>
+                        <td style="color:#666; font-size:0.85em;">${timeStr}</td>
+                        <td><a href="${subUrl}" target="_blank" title="查看代码详情">🔗 查看</a></td>
+                    `;
+                    tbody.appendChild(row);
+                });
+            });
+
+            // 更新柱状图
+            updateChart(groups.map(g => g.length));
+
+        } catch (err) {
+            errorDiv.innerText = "错误: " + err.message;
+            errorDiv.style.display = 'block';
+        } finally {
+            loadingDiv.style.display = 'none';
+            btn.disabled = false;
+        }
+    }
+
+    function updateChart(counts) {
+        const ctx = document.getElementById('ratingChart').getContext('2d');
+        
+        // 如果图表已存在，先销毁，防止鼠标悬停时闪烁旧数据
+        if (myChart) {
+            myChart.destroy();
+        }
+
+        myChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ['[800, 1100]', '[1200, 1600]', '[1700, 2100]', '[2200, +∞)'],
+                datasets: [{
+                    label: '刷题数量',
+                    data: counts,
+                    backgroundColor: [
+                        '#718096', // Newbie Gray
+                        '#0bc5ea', // Cyan
+                        '#4299e1', // Blue
+                        '#ed8936'  // Orange
+                    ],
+                    borderColor: [
+                        '#4a5568',
+                        '#09a6c7',
+                        '#3182ce',
+                        '#dd6b20'
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { display: false },
+                    title: {
+                        display: true,
+                        text: '各分段刷题数量分布统计',
+                        font: { size: 16 }
+                    }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        ticks: {
+                            precision: 0 // 纵坐标显示整数
+                        }
+                    }
+                }
+            }
+        });
+    }
+</script>
+
+</body>
+</html>

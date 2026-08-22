@@ -1,0 +1,1 @@
+{"name":"Local: Gym105901M","url":"d:\\ACM\\计算几何\\Gym105901M.cpp","tests":[{"id":1761999440169,"input":"2\n100\n1 1 1\n1 0 0\n0 1 0\n100\n-1 -1 0\n1 0 0\n0 1 0\n","output":"61.547970867038734110\n235.619449019234492887"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\计算几何\\Gym105901M.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"d:\\ACM\\Codeforces\\cf1078\\C.cpp","tests":[{"id":1774234384897,"input":"3\n3 2\nabc\nbaa\n9 2\niiinnnfff\nnnfiffinn\n4 2\nacbd\nbdac\n","output":"aaa\ninfinfinf\nacac\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Codeforces\\cf1078\\C.cpp","group":"local","local":true}

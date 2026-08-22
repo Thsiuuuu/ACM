@@ -1,0 +1,1 @@
+{"name":"Local: P8617 [蓝桥杯 2014 国 AC] 重复模式","url":"d:\\ACM\\字符串\\后缀数组\\P8617 [蓝桥杯 2014 国 AC] 重复模式.cpp","tests":[{"id":1779791040209,"input":"ababa","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\字符串\\后缀数组\\P8617 [蓝桥杯 2014 国 AC] 重复模式.cpp","group":"local","local":true}

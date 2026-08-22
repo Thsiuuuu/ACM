@@ -1,0 +1,1 @@
+{"name":"Local: NetWork","url":"d:\\ForVSCode\\树论\\树上差分\\边差分\\NetWork.cpp","tests":[{"id":1756499727457,"input":"4 1\n1 2\n2 3\n1 4\n3 4\n","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\树论\\树上差分\\边差分\\NetWork.cpp","group":"local","local":true}

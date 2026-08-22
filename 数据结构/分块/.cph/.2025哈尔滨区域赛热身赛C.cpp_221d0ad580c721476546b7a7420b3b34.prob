@@ -1,0 +1,1 @@
+{"name":"Local: 2025哈尔滨区域赛热身赛C","url":"d:\\ACM\\数据结构\\分块\\2025哈尔滨区域赛热身赛C.cpp","tests":[{"id":1785731600503,"input":"10 5\n1 1 1\n2 10\n1 4 3\n1 5 4\n2 9\n","output":"1\n7\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\数据结构\\分块\\2025哈尔滨区域赛热身赛C.cpp","group":"local","local":true}

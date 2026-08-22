@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"d:\\ACM\\Codeforces\\cf918\\B.cpp","tests":[{"id":1782743500738,"input":"3\nABC\nC?B\nBCA\nBCA\nCA?\nABC\n?AB\nBCA\nABC\n","output":"A\nB\nC\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Codeforces\\cf918\\B.cpp","group":"local","local":true}

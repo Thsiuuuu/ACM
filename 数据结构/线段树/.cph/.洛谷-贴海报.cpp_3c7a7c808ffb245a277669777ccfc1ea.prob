@@ -1,0 +1,1 @@
+{"name":"Local: 洛谷-贴海报","url":"d:\\ForVSCode\\数据结构\\线段树\\洛谷-贴海报.cpp","tests":[{"id":1750668202083,"input":"100 5\n1 4\n2 6\n8 10\n3 4\n7 10\n","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\数据结构\\线段树\\洛谷-贴海报.cpp","group":"local","local":true}

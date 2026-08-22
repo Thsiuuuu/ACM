@@ -1,0 +1,1 @@
+{"name":"Local: P2852 [USACO06DEC] Milk Patterns G","url":"d:\\ACM\\字符串\\后缀数组\\P2852 [USACO06DEC] Milk Patterns G.cpp","tests":[{"id":1779367805695,"input":"8 2\n1\n2\n3\n2\n3\n2\n3\n1","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\字符串\\后缀数组\\P2852 [USACO06DEC] Milk Patterns G.cpp","group":"local","local":true}

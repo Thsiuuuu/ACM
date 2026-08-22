@@ -1,0 +1,1 @@
+{"name":"Local: 简单的a+b","url":"d:\\ForVSCode\\东北大学数学\\高精度\\简单的a+b.cpp","tests":[{"id":1750493618541,"input":"5 8","output":"13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\东北大学数学\\高精度\\简单的a+b.cpp","group":"local","local":true}

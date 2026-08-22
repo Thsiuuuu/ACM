@@ -1,0 +1,1 @@
+{"name":"Local: CF839C","url":"d:\\ACM\\图论\\图论题\\最短路\\CF839C.cpp","tests":[{"id":1759846805186,"input":"4\n1 2\n1 3\n2 4\n","output":"1.500000000000000\n"},{"id":1759846815207,"input":"5\n1 2\n1 3\n3 4\n2 5\n","output":"2.000000000000000\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\图论\\图论题\\最短路\\CF839C.cpp","group":"local","local":true}

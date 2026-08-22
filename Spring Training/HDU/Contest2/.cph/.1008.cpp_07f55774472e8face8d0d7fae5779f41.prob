@@ -1,0 +1,1 @@
+{"name":"Local: 1008","url":"d:\\ACM\\Spring Training\\HDU\\Contest2\\1008.cpp","tests":[{"id":1774747853318,"input":"2\n5\n3 -1 -2 -2 2\n2\n1 -1","output":"5\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Spring Training\\HDU\\Contest2\\1008.cpp","group":"local","local":true}

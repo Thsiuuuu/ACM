@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"d:\\ACM\\Codeforces\\cf1084\\F.cpp","tests":[{"id":1773374688655,"input":"3\n3 3\n67 0\n6 1\n7 1\n1 0\n100 0\n62 1\n2 1\n2 2\n4 2\n3 1\n1 2\n6 1\n7 0\n8 1\n","output":"67 100 69\n7\n7 14\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Codeforces\\cf1084\\F.cpp","group":"local","local":true}

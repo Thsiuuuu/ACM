@@ -1,0 +1,1 @@
+{"name":"Local: G","url":"d:\\ForVSCode\\搜索\\G.cpp","tests":[{"id":1755569133927,"input":"2\n4 4\n####\n#JF#\n#..#\n#..#\n3 3\n###\n#J.\n#.F","output":"3\nIMPOSSIBLE"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\搜索\\G.cpp","group":"local","local":true}

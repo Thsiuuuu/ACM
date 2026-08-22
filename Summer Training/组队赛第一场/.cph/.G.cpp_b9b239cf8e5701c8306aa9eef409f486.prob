@@ -1,0 +1,1 @@
+{"name":"Local: G","url":"d:\\ACM\\SummerTraining\\组队赛第一场\\G.cpp","tests":[{"id":1784375200217,"input":"2\n2 2 1\n1 1\n","output":"124780545\n"},{"id":1784375204667,"input":"5\n2 1 2\n2 3 1\n3 2 4 3\n2 1 4\n3 4 3 2\n","output":"798595483\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\SummerTraining\\组队赛第一场\\G.cpp","group":"local","local":true}

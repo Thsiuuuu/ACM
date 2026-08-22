@@ -1,0 +1,1 @@
+{"name":"Local: H","url":"d:\\ACM\\Spring Training\\CF\\Contest8\\H.cpp","tests":[{"id":1777875102861,"input":"3 3\n1 2 3\n","output":"No\n"},{"id":1777875109325,"input":"6 4\n1 1 4 5 1 4\n","output":"Yes\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Spring Training\\CF\\Contest8\\H.cpp","group":"local","local":true}

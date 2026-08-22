@@ -1,0 +1,1 @@
+{"name":"Local: Rmq Problem","url":"d:\\ForVSCode\\数据结构\\莫队\\Rmq Problem.cpp","tests":[{"id":1755792598600,"input":"5 5\n2 1 0 2 1\n3 3\n2 3\n2 4\n1 2\n3 5","output":"1\n2\n3\n0\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\数据结构\\莫队\\Rmq Problem.cpp","group":"local","local":true}

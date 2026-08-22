@@ -1,0 +1,1 @@
+{"name":"Local: P2762 太空飞行计划问题","url":"d:\\ACM\\图论\\图论题\\网络流\\最小割\\P2762 太空飞行计划问题.cpp","tests":[{"id":1772367569817,"input":"2 3\n10 1 2\n25 2 3\n5 6 7","output":"1 2\n1 2 3\n17"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\图论\\图论题\\网络流\\最小割\\P2762 太空飞行计划问题.cpp","group":"local","local":true}

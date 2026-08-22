@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"d:\\ACM\\AtCoder\\ABC469\\F.cpp","tests":[{"id":1785606417540,"input":"3\n4 6 12\n","output":"10\n"},{"id":1785606426575,"input":"5\n5 14 15 21 42\n","output":"43"},{"id":1785606431720,"input":"2\n1 1000000\n","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\AtCoder\\ABC469\\F.cpp","group":"local","local":true}

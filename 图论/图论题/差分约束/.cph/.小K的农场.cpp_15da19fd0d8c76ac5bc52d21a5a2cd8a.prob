@@ -1,0 +1,1 @@
+{"name":"Local: 小K的农场","url":"d:\\ACM\\图论\\图论题\\差分约束\\小K的农场.cpp","tests":[{"id":1770398352474,"input":"3 3\n3 1 2\n1 1 3 1\n2 2 3 2\n","output":"Yes\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\图论\\图论题\\差分约束\\小K的农场.cpp","group":"local","local":true}

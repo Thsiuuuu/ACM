@@ -1,0 +1,1 @@
+{"name":"Local: M","url":"d:\\ForVSCode\\数学\\M.cpp","tests":[{"id":1755170171881,"input":"3\n5\n21\n9999974\n","output":"27\n670\n788622283414245\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\数学\\M.cpp","group":"local","local":true}

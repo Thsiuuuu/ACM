@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"d:\\ForVSCode\\字符串\\KMP\\F.cpp","tests":[{"id":1754964557750,"input":"abcd\naaaa\nababab\n.\n","output":"1\n4\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\字符串\\KMP\\F.cpp","group":"local","local":true}

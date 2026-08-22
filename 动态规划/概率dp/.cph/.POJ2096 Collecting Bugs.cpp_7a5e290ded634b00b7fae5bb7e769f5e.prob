@@ -1,0 +1,1 @@
+{"name":"Local: POJ2096 Collecting Bugs","url":"d:\\ACM\\动态规划\\概率dp\\POJ2096 Collecting Bugs.cpp","tests":[{"id":1780045685107,"input":"1 2","output":"3.0000"},{"id":1780244081534,"input":"35 570\n","output":"3946.5255\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\动态规划\\概率dp\\POJ2096 Collecting Bugs.cpp","group":"local","local":true}

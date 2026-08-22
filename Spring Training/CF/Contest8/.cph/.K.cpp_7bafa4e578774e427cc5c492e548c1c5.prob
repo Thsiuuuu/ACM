@@ -1,0 +1,1 @@
+{"name":"Local: K","url":"d:\\ACM\\Spring Training\\CF\\Contest8\\K.cpp","tests":[{"id":1777875674078,"input":"3\n1\n3\n2\n1 1\n4\n114 514 1919 817\n","output":"Mandy\nbrz\ndraw\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Spring Training\\CF\\Contest8\\K.cpp","group":"local","local":true}

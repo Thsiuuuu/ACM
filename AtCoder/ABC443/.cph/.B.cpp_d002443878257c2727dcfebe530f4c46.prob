@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"d:\\ACM\\AtCoder\\ABC443\\B.cpp","tests":[{"id":1769861046813,"input":"4 43\n","output":"6"},{"id":1769861051225,"input":"100000000 100000000\n","output":"0"},{"id":1769861056087,"input":"1234 12345678\n","output":"3886"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\AtCoder\\ABC443\\B.cpp","group":"local","local":true}

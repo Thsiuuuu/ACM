@@ -1,0 +1,1 @@
+{"name":"Local: P5026","url":"d:\\ACM\\常用技巧\\差分\\P5026.cpp","tests":[{"id":1762046477139,"input":"1 10\n1 5","output":"0 0 1 0 -1 0 1 0 0 0 "},{"id":1762046483615,"input":"2 10\n2 6\n3 1","output":"-2 0 0 0 0 0 2 2 2 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\常用技巧\\差分\\P5026.cpp","group":"local","local":true}

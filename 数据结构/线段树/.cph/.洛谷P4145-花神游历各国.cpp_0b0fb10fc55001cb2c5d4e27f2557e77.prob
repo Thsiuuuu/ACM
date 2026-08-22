@@ -1,0 +1,1 @@
+{"name":"Local: 洛谷P4145-花神游历各国","url":"d:\\ForVSCode\\数据结构\\线段树\\洛谷P4145-花神游历各国.cpp","tests":[{"id":1750662984029,"input":"10\n1 2 3 4 5 6 7 8 9 10\n5\n0 1 10\n1 1 10\n1 1 5\n0 5 8\n1 4 8","output":"19\n7\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\数据结构\\线段树\\洛谷P4145-花神游历各国.cpp","group":"local","local":true}

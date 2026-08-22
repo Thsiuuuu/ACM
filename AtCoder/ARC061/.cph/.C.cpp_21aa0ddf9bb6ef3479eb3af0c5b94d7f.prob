@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"d:\\ACM\\AtCoder\\ARC061\\C.cpp","tests":[{"id":1778499301285,"input":"125","output":"176"},{"id":1778499307519,"input":"9999999999","output":"12656242944"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\AtCoder\\ARC061\\C.cpp","group":"local","local":true}

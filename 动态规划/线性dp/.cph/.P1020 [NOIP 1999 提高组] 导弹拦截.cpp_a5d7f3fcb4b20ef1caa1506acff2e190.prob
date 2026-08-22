@@ -1,0 +1,1 @@
+{"name":"Local: P1020 [NOIP 1999 提高组] 导弹拦截","url":"d:\\ACM\\动态规划\\线性dp\\P1020 [NOIP 1999 提高组] 导弹拦截.cpp","tests":[{"id":1787299309180,"input":"389 207 155 300 299 170 158 65","output":"6\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\动态规划\\线性dp\\P1020 [NOIP 1999 提高组] 导弹拦截.cpp","group":"local","local":true}

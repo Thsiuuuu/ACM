@@ -1,0 +1,1 @@
+{"name":"Local: B1","url":"d:\\ACM\\Autumn traing\\Training 16\\B1.py","tests":[{"id":1760161423120,"input":"10\n2 -1 4 -7 4 -8 3 -6 4 -7\n","output":"+0+-+---+-\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Autumn traing\\Training 16\\B1.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: CF785D","url":"d:\\ACM\\数学\\范德蒙德卷积\\CF785D.cpp","tests":[{"id":1771036403022,"input":")(()()\n","output":"6"},{"id":1771036407328,"input":"()()()\n","output":"7"},{"id":1771036412334,"input":")))\n","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\数学\\范德蒙德卷积\\CF785D.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: CF1976D Invertible Bracket Sequences","url":"d:\\ACM\\数据结构\\st表\\CF1976D Invertible Bracket Sequences.cpp","tests":[{"id":1787284963161,"input":"4\n(())\n()\n()()()\n(()())(())","output":"1\n0\n3\n13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\数据结构\\st表\\CF1976D Invertible Bracket Sequences.cpp","group":"local","local":true}

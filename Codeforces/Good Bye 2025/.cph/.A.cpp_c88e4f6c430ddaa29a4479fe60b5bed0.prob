@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\ACM\\Codeforces\\Good Bye 2025\\A.cpp","tests":[{"id":1766846241849,"input":"7\nYY\nNN\nNNY\nYYYNY\nNNNNN\nYYYYYY\nYNNNNN\n","output":"NO\nYES\nYES\nNO\nYES\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Codeforces\\Good Bye 2025\\A.cpp","group":"local","local":true}

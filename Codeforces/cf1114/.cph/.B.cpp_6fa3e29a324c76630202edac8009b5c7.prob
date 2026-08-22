@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"d:\\ACM\\Codeforces\\cf1114\\B.cpp","tests":[{"id":1785854719986,"input":"9\n3\nabb\n3\naab\n3\nabc\n4\nabaa\n4\nabba\n5\neeeee\n6\nyyssee\n7\nabacaba\n18\ngoodluckandhavefun\n","output":"2\n2\n2\n1\n3\n1\n3\n5\n16\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Codeforces\\cf1114\\B.cpp","group":"local","local":true}

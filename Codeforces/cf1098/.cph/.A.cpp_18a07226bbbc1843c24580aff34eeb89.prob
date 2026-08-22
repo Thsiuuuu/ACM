@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\ACM\\Codeforces\\cf1098\\A.cpp","tests":[{"id":1780754331403,"input":"3\n4\n0 0 0 0\n3\n1 2 0\n5\n1 2 1 2 1\n","output":"4\n2\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Codeforces\\cf1098\\A.cpp","group":"local","local":true}

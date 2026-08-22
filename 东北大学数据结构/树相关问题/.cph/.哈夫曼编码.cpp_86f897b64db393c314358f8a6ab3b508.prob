@@ -1,0 +1,1 @@
+{"name":"Local: 哈夫曼编码","url":"d:\\ACM\\东北大学数据结构\\树相关问题\\哈夫曼编码.cpp","tests":[{"id":1766840440916,"input":"abca","output":"6"},{"id":1766840541824,"input":"aaaaaa","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\东北大学数据结构\\树相关问题\\哈夫曼编码.cpp","group":"local","local":true}

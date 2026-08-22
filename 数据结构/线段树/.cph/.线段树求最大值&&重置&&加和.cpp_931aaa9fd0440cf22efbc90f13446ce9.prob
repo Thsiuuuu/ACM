@@ -1,0 +1,1 @@
+{"name":"Local: 线段树求最大值&&重置&&加和","url":"d:\\ForVSCode\\数据结构\\线段树\\线段树求最大值&&重置&&加和.cpp","tests":[{"id":1750612084985,"input":"6 6\n1 1 4 5 1 4\n1 1 2 6\n2 3 4 2\n3 1 4\n3 2 3\n1 1 6 -1\n3 1 6\n","output":"7\n6\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\数据结构\\线段树\\线段树求最大值&&重置&&加和.cpp","group":"local","local":true}

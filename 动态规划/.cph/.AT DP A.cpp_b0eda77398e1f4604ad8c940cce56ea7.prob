@@ -1,0 +1,1 @@
+{"name":"Local: AT DP A","url":"d:\\ACM\\动态规划\\AT DP A.cpp","tests":[{"id":1786761268060,"input":"3\n2 3 5","output":"7"},{"id":1786761290906,"input":"10\n1 1 1 1 1 1 1 1 1 1","output":"11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\动态规划\\AT DP A.cpp","group":"local","local":true}

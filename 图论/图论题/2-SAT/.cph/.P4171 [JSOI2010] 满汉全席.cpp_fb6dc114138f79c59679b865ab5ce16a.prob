@@ -1,0 +1,1 @@
+{"name":"Local: P4171 [JSOI2010] 满汉全席","url":"d:\\ACM\\图论\\图论题\\2-SAT\\P4171 [JSOI2010] 满汉全席.cpp","tests":[{"id":1785029469669,"input":"2\n3 4\nm3 h1\nm1 m2\nh1 h3\nh3 m2\n2 4\nh1 m2\nm2 m1\nh1 h2\nm1 h2","output":"GOOD\nBAD"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\图论\\图论题\\2-SAT\\P4171 [JSOI2010] 满汉全席.cpp","group":"local","local":true}

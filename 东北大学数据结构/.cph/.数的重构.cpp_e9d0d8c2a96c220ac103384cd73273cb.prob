@@ -1,0 +1,1 @@
+{"name":"Local: 数的重构","url":"d:\\ForVSCode\\东北大学数据结构\\数的重构.cpp","tests":[{"id":1749474300463,"input":"5\n1 2 3 4 5\n3 2 4 1 5","output":"3 4 2 5 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\东北大学数据结构\\数的重构.cpp","group":"local","local":true}

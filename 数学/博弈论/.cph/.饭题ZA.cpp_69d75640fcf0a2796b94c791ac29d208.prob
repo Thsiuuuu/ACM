@@ -1,0 +1,1 @@
+{"name":"Local: 饭题ZA","url":"d:\\ACM\\数学\\博弈论\\饭题ZA.cpp","tests":[{"id":1786202120007,"input":"4\n2\n4\n7\n8\n","output":"ice\nOrange\nice\nOrange\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\数学\\博弈论\\饭题ZA.cpp","group":"local","local":true}

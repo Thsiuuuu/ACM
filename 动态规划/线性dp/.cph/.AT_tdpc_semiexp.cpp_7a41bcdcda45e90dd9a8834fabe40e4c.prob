@@ -1,0 +1,1 @@
+{"name":"Local: AT_tdpc_semiexp","url":"d:\\ACM\\动态规划\\线性dp\\AT_tdpc_semiexp.cpp","tests":[{"id":1787106482256,"input":"10 2\n","output":"21"},{"id":1787106485165,"input":"10 10\n","output":"255"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\动态规划\\线性dp\\AT_tdpc_semiexp.cpp","group":"local","local":true}

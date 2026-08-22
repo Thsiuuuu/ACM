@@ -1,0 +1,1 @@
+{"name":"Local: CF1265E Beautiful Mirrors","url":"d:\\ACM\\动态规划\\概率dp\\CF1265E Beautiful Mirrors.cpp","tests":[{"id":1781158155910,"input":"1\n50\n","output":"2"},{"id":1781158159863,"input":"3\n10 20 50\n","output":"112"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\动态规划\\概率dp\\CF1265E Beautiful Mirrors.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 联通分量分解","url":"d:\\ForVSCode\\东北大学数据结构\\图相关问题\\联通分量分解.cpp","tests":[{"id":1749740384147,"input":"10 9\n0 1\n0 2\n3 4\n5 7\n5 6\n6 7\n6 8\n7 8\n8 9\n3\n0 1\n5 9\n1 3","output":"yes\nyes\nno"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ForVSCode\\东北大学数据结构\\图相关问题\\联通分量分解.cpp","group":"local","local":true}

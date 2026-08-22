@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"d:\\ACM\\Winter Training\\Round2\\B.cpp","tests":[{"id":1768793003591,"input":"2 8\n! 1\n! 2\n+ 1 2\n! 1\n! 2\n- 1 2\n! 1\n! 2","output":"1 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Winter Training\\Round2\\B.cpp","group":"local","local":true}

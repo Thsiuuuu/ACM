@@ -1,0 +1,1 @@
+{"name":"Local: P1204","url":"d:\\ACM\\常用技巧\\珂朵莉树\\P1204.cpp","tests":[{"id":1778996513043,"input":"3\n300 1000\n700 1200\n1500 2100\n","output":"900 300\n"},{"id":1778998030292,"input":"1\n100 200","output":"100 0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\常用技巧\\珂朵莉树\\P1204.cpp","group":"local","local":true}
