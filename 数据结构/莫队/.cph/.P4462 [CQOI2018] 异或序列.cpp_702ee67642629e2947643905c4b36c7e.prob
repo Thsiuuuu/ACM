@@ -1,0 +1,1 @@
+{"name":"Local: P4462 [CQOI2018] 异或序列","url":"d:\\ACM\\数据结构\\莫队\\P4462 [CQOI2018] 异或序列.cpp","tests":[{"id":1787552140712,"input":"4 5 1\n1 2 3 1\n1 4\n1 3\n2 3\n2 4\n4 4","output":"4\n2\n1\n2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\数据结构\\莫队\\P4462 [CQOI2018] 异或序列.cpp","group":"local","local":true}
