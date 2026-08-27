@@ -1,0 +1,1 @@
+{"name":"Local: SP8222 NSUBSTR - Substrings","url":"d:\\ACM\\字符串\\后缀自动机\\SP8222 NSUBSTR - Substrings.cpp","tests":[{"id":1787804586858,"input":"ababa","output":"3\n2\n2\n1\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\字符串\\后缀自动机\\SP8222 NSUBSTR - Substrings.cpp","group":"local","local":true}
