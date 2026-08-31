@@ -1,0 +1,1 @@
+{"name":"Local: AStringGame","url":"d:\\ACM\\字符串\\后缀自动机\\AStringGame.cpp","tests":[{"id":1788141785534,"input":"aaaa\n1\na\nabcabd\n1\na","output":"Alice\nBob"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\字符串\\后缀自动机\\AStringGame.cpp","group":"local","local":true}

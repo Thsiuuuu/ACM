@@ -1,0 +1,1 @@
+{"name":"Local: 多模式最长公共子串","url":"d:\\ACM\\字符串\\后缀自动机\\多模式最长公共子串.cpp","tests":[{"id":1788110858202,"input":"3\nalsdfkjfjkdsal\nfdjskalajfkdsla\naaaajfaaaa","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\字符串\\后缀自动机\\多模式最长公共子串.cpp","group":"local","local":true}

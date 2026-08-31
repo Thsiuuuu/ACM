@@ -1,0 +1,1 @@
+{"name":"Local: 本质不同子串个数","url":"d:\\ACM\\字符串\\后缀自动机\\本质不同子串个数.cpp","tests":[{"id":1788128613585,"input":"aa","output":"2"},{"id":1788128617909,"input":"abca","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\字符串\\后缀自动机\\本质不同子串个数.cpp","group":"local","local":true}
