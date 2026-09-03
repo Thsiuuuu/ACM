@@ -1,0 +1,1 @@
+{"name":"Local: CF1913D Array Collapse","url":"d:\\ACM\\动态规划\\动态规划优化\\单调队列、单调栈优化\\CF1913D Array Collapse.cpp","tests":[{"id":1788436255694,"input":"3\n2\n2 1\n4\n2 4 1 3\n5\n10 2 6 3 4","output":"2\n6\n12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\动态规划\\动态规划优化\\单调队列、单调栈优化\\CF1913D Array Collapse.cpp","group":"local","local":true}
