@@ -1,0 +1,1 @@
+{"name":"Local: CF1895D XOR Construction","url":"d:\\ACM\\构造\\CF1895D XOR Construction.cpp","tests":[{"id":1788707294244,"input":"4\n2 1 2","output":"0 2 3 1"},{"id":1788707298511,"input":"6\n1 6 1 4 1","output":"2 3 5 4 0 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\构造\\CF1895D XOR Construction.cpp","group":"local","local":true}

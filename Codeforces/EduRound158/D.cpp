@@ -18,20 +18,31 @@ using namespace std;
 #define VII vector<VI>
 #define VL  vector<ll>
 #define VLL vector<VL>
+
+#define 艹 (n+2,0)
 void sol() {
-    ll n;cin>>n;
-    if(n&1) cout<<"No\n";
-    else{
-        cout<<"Yes\n";
-        cout<<(n>>1)<<" "<<(n>>1)<<'\n';
+    int n;cin>>n;
+    VL a 艹,suf 艹,pre 艹;
+    for(int i=1;i<=n;i++) cin>>a[i];
+    for(int i=1;i<=n;i++){
+        pre[i]=max(pre[i-1],a[i]-i+n);
+    }  
+    for(int i=n;i>=1;i--) {
+        suf[i]=max(suf[i+1],a[i]+i-1);
     }
+    ll ans=1e18;
+    for(int i=1;i<=n;i++){
+        ans=min(ans,max({pre[i-1],suf[i+1],a[i]}));
+    }
+    cout<<ans;
 }
+
 signed main() {
     ios::sync_with_stdio(0);
     cin.tie(0), cout.tie(0);
 
     int t = 1;
-    cin >> t;
+    // cin >> t;
     while (t--) {
         sol();
     }
