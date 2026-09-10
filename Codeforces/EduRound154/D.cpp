@@ -18,24 +18,21 @@ using namespace std;
 #define VII vector<VI>
 #define VL  vector<ll>
 #define VLL vector<VL>
-const ll mod=998244353;
-const int N=3e5+10;
-ll cnt[2],n,a[N],sum[2];
 void sol() {
-    cin>>n;
+    int n;cin>>n;
+    VI a(n+1),pre(n+1,0),suf(n+1,0);
     for(int i=1;i<=n;i++) cin>>a[i];
-    ll ans=0;
-    for(int i=31;i>=0;i--){
-        int s=0;  
-        sum[0]=sum[1]=cnt[1]=0,cnt[0]=1;
-        for(int r=1;r<=n;r++){
-            s^=a[r];
-            int x=(s>>i)&1;
-            ans=(ans+(cnt[!x]*r%mod-sum[!x]+mod)%mod*(1<<i)%mod)%mod;
-            cnt[x]++,sum[x]=(sum[x]+r)%mod;
-        }
-    }   
-    cout<<ans;
+    for(int i=2;i<=n;i++) pre[i]=pre[i-1]+(a[i-1]<=a[i]);
+    for(int i=n-1;i>=1;i--) suf[i]=suf[i+1]+(a[i]>=a[i+1]);
+    int ans=1e9;
+    for(int i=1;i<=n+1;i++){
+        int cnt=0;
+        if(i-1>=1) cnt+=pre[i-1];
+        if(i<n) cnt+=suf[i];
+        if(i>1) cnt+=1;
+        ans=min(ans,cnt);  
+    }
+    cout<<ans<<'\n';
 }
 
 signed main() {
@@ -43,7 +40,7 @@ signed main() {
     cin.tie(0), cout.tie(0);
 
     int t = 1;
-    // cin >> t;
+    cin >> t;
     while (t--) {
         sol();
     }
