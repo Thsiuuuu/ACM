@@ -1,0 +1,1 @@
+{"name":"Local: P3649 [APIO2014] 回文串","url":"d:\\ACM\\字符串\\回文自动机\\P3649 [APIO2014] 回文串.cpp","tests":[{"id":1789990285813,"input":"abacaba\n","output":"7\n"},{"id":1789990289698,"input":"www","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\字符串\\回文自动机\\P3649 [APIO2014] 回文串.cpp","group":"local","local":true}

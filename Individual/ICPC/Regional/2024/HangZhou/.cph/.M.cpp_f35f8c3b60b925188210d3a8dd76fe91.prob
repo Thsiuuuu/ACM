@@ -1,0 +1,1 @@
+{"name":"Local: M","url":"d:\\ACM\\Individual\\ICPC\\Regional\\2024\\HangZhou\\M.cpp","tests":[{"id":1790078006166,"input":"3\n5 10\n7 79 1 7 1\n2 1000000000\n1 2\n1 100\n1000000000","output":"3 8\n0 0\n100 5050"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Individual\\ICPC\\Regional\\2024\\HangZhou\\M.cpp","group":"local","local":true}

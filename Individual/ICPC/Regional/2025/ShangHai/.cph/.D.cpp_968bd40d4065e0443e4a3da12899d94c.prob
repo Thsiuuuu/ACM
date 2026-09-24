@@ -1,0 +1,1 @@
+{"name":"Local: D","url":"d:\\ACM\\Individual\\ICPC\\Regional\\2025\\ShangHai\\D.cpp","tests":[{"id":1789543104981,"input":"1\n3 5","output":"14"},{"id":1789543112347,"input":"2\n2 6 8 8","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Individual\\ICPC\\Regional\\2025\\ShangHai\\D.cpp","group":"local","local":true}

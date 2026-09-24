@@ -1,0 +1,1 @@
+{"name":"Local: CF1837D Bracket Coloring","url":"d:\\ACM\\贪心\\CF1837D Bracket Coloring.cpp","tests":[{"id":1789731103946,"input":"4\n8\n((())))(\n4\n(())\n4\n))((\n3\n(()","output":"2\n2 2 2 1 2 2 2 1\n1\n1 1 1 1\n1\n1 1 1 1\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\贪心\\CF1837D Bracket Coloring.cpp","group":"local","local":true}
