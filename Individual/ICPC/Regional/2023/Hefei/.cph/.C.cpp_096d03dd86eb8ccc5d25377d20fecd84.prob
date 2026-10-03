@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"d:\\ACM\\Individual\\ICPC\\Regional\\2023\\Hefei\\C.cpp","tests":[{"id":1790905293442,"input":"5\n01010\n","output":"39"},{"id":1790905300052,"input":"8\n66776677","output":"192"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Individual\\ICPC\\Regional\\2023\\Hefei\\C.cpp","group":"local","local":true}

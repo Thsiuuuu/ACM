@@ -1,0 +1,1 @@
+{"name":"Local: J","url":"d:\\ACM\\Individual\\ICPC\\Regional\\2023\\Hefei\\J.cpp","tests":[{"id":1790869244725,"input":"4 6\n1 2 2\n1 3 4\n1 4 7\n2 3 1\n2 4 3\n3 4 9\n","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Individual\\ICPC\\Regional\\2023\\Hefei\\J.cpp","group":"local","local":true}
