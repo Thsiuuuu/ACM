@@ -1,0 +1,1 @@
+{"name":"Local: CF1208F Bits And Pieces","url":"d:\\ACM\\动态规划\\SOSdp\\CF1208F Bits And Pieces.cpp","tests":[{"id":1791082231776,"input":"3\n2 4 6\n","output":"6"},{"id":1791082236406,"input":"4\n2 8 4 7\n","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\动态规划\\SOSdp\\CF1208F Bits And Pieces.cpp","group":"local","local":true}
