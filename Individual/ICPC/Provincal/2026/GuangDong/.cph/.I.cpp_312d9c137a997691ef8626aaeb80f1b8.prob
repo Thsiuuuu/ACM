@@ -1,0 +1,1 @@
+{"name":"Local: I","url":"d:\\ACM\\Individual\\ICPC\\Provincal\\2026\\GuangDong\\I.cpp","tests":[{"id":1791446845091,"input":"3\nazzza\nzazaz\nazzza\nzbzbz\nyou\nak\n","output":"aa\nzz\nHENG!\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Individual\\ICPC\\Provincal\\2026\\GuangDong\\I.cpp","group":"local","local":true}

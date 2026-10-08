@@ -1,0 +1,1 @@
+{"name":"Local: G","url":"d:\\ACM\\Individual\\ICPC\\Regional\\2024\\ChengDu\\G.cpp","tests":[{"id":1791444664869,"input":"2\n2 3\n","output":"4"},{"id":1791444666190,"input":"2\n3 4","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Individual\\ICPC\\Regional\\2024\\ChengDu\\G.cpp","group":"local","local":true}
