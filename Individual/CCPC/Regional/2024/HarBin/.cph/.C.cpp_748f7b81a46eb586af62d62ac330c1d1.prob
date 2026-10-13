@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"d:\\ACM\\Individual\\CCPC\\Regional\\2024\\HarBin\\C.cpp","tests":[{"id":1791797935394,"input":"1\n2\nS 2\nE 1\n","output":"3 S\nZ 2\nL\nZ 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Individual\\CCPC\\Regional\\2024\\HarBin\\C.cpp","group":"local","local":true}
