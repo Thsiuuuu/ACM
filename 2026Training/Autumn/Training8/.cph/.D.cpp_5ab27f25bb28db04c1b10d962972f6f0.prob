@@ -1,0 +1,1 @@
+{"name":"Local: D","url":"d:\\ACM\\2026Training\\Autumn\\Training8\\D.cpp","tests":[{"id":1792048216800,"input":"2\n1\n1\n5\n1 2 4 3 5\n","output":"0\n15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\2026Training\\Autumn\\Training8\\D.cpp","group":"local","local":true}
