@@ -1,0 +1,1 @@
+{"name":"Local: J","url":"d:\\ACM\\Individual\\CCPC\\Regional\\2025\\HarBin\\J.cpp","tests":[{"id":1792482111887,"input":"3\n8\nwwwovvvv\n16\nwwwooooooooovwww\n11\nwwwovoovvvv","output":"wwovvvv\nooooooooo\nvvvv"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\Individual\\CCPC\\Regional\\2025\\HarBin\\J.cpp","group":"local","local":true}

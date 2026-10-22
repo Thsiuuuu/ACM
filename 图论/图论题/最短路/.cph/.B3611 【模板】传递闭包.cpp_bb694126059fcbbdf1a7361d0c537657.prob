@@ -1,0 +1,1 @@
+{"name":"Local: B3611 【模板】传递闭包","url":"d:\\ACM\\图论\\图论题\\最短路\\B3611 【模板】传递闭包.cpp","tests":[{"id":1792323875211,"input":"4\n0 0 0 1\n1 0 0 0\n0 0 0 1\n0 1 0 0","output":"1 1 0 1\n1 1 0 1\n1 1 0 1\n1 1 0 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\ACM\\图论\\图论题\\最短路\\B3611 【模板】传递闭包.cpp","group":"local","local":true}
